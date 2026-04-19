@@ -1,3 +1,5 @@
+import 'package:html_unescape/html_unescape.dart';
+
 class Question {
   final String questionText;
   final String correctAnswer;
